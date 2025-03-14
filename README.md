@@ -1,0 +1,2 @@
+# BasicFlaskApp
+Learning about flask
